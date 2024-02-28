@@ -1,5 +1,3 @@
-# Casino Platform (Casino Template - Paid Version 1.0.7)
-
 ## Technologies Used
 
 ### Frontend:
